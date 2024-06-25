@@ -1,0 +1,1 @@
+﻿*Install candy.TTF (located in FONTS folder) before playing for an even better experience!
